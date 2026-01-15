@@ -261,4 +261,4 @@ elif section == "Conclusion":
 # Footer
 # ---------------------------------------
 st.markdown("---")
-st.markdown("**Amazon Prime Data Analysis | Built with Streamlit** 🚀")
+st.markdown("**Amazon Prime Data Analysis | Built with Streamlit | By Md Hasnain** 🚀")
